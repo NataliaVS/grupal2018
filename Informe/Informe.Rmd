@@ -4,9 +4,9 @@ subtitle: "Ecología de poblaciones silvestres"
 abstract: |
   The abstract of the article.
   
-authors: Natalia Villalobos Sequeira
+authors:
 - name: |
-      Author 1,  
+      Natalia Villalobos Sequeira,  
       Author 1 b
   affiliation: Escuela de Ciencias Biológicas, Universidad Nacional
   
@@ -169,3 +169,4 @@ Table: (\#tab:OldUnits) Unidades antiguas utilizadas en Costa Rica, y su equival
 \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{8pt}
 \noindent
+
